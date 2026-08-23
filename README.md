@@ -1,4 +1,4 @@
-# 🏛️ NTI Digital Design & RTL Verilog Training Repository
+# 🏛️ NTI Training Program Repository
 
 Welcome to my repository for the **National Telecommunication Institute (NTI)** Digital Design and RTL Verification training track. This repository contains all practical lab tasks, behavioral module implementations, integrated systems, and verification testbenches written in **Verilog HDL**.
 
